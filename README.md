@@ -1,7 +1,7 @@
 # 👾 Hey, I'm Sunil P!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:170B2E,55:35145F,100:6335A2&height=180&section=header&text=SUNIL%20P&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20%7C%20UI%2FUX%20Design%20%7C%20Development&descSize=16&descAlignY=65" />
+  <img src="./assets/sunil-cyber-banner.png" width="100%" alt="Sunil P. | Cybersecurity, UI/UX, and Engineering. Exploring Security, Designing Better, Building What Matters." />
 </p>
 
 <p align="center">
