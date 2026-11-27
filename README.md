@@ -9,18 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://sunilp2109.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/sunilp2109">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://tryhackme.com/p/sunilp21092005">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-9333EA?style=flat-square&logo=tryhackme&logoColor=white" />
-  </a>
-  <a href="mailto:sunilp21092005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://sunilp2109.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sunilp2109"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/sunilp21092005"><img src="https://img.shields.io/badge/TryHackMe-Profile-9333EA?style=flat-square&logo=tryhackme&logoColor=white" /></a>
+<a href="mailto:sunilp21092005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-A855F7?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
