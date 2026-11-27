@@ -1,7 +1,7 @@
 # 👾 Hey, I'm Sunil P!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:301934,100:6f42c1&height=180&section=header&text=SUNIL%20P&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20%7C%20UI%2FUX%20Design%20%7C%20Development&descSize=16&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:170B2E,55:35145F,100:6335A2&height=180&section=header&text=SUNIL%20P&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20%7C%20UI%2FUX%20Design%20%7C%20Development&descSize=16&descAlignY=65" />
 </p>
 
 <p align="center">
@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-<a href="https://sunilp2109.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/sunilp2109"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/sunilp21092005"><img src="https://img.shields.io/badge/TryHackMe-Profile-9333EA?style=flat-square&logo=tryhackme&logoColor=white" /></a>
-<a href="mailto:sunilp21092005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-A855F7?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://sunilp2109.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&labelColor=2E1065&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sunilp2109"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=flat-square&labelColor=2E1065&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/sunilp21092005"><img src="https://img.shields.io/badge/TryHackMe-Profile-9333EA?style=flat-square&labelColor=2E1065&logo=tryhackme&logoColor=white" /></a>
+<a href="mailto:sunilp21092005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-A855F7?style=flat-square&labelColor=2E1065&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2E1065,50:8B5CF6,100:2E1065&amp;height=5" width="100%" height="3" alt="">
 
 ## ✦ About Me
 
@@ -36,7 +36,7 @@ I enjoy exploring vulnerabilities, solving CTF challenges, designing intuitive i
 - 🧠 Constantly learning through CTFs and hands-on labs
 - 🚀 Interested in the intersection of security, design & technology
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2E1065,50:8B5CF6,100:2E1065&amp;height=5" width="100%" height="3" alt="">
 
 ## ⚡ Tech Stack
 
@@ -64,7 +64,7 @@ I enjoy exploring vulnerabilities, solving CTF challenges, designing intuitive i
   <img src="https://skillicons.dev/icons?i=figma,vscode,git,github&theme=dark" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2E1065,50:8B5CF6,100:2E1065&amp;height=5" width="100%" height="3" alt="">
 
 ## 🚀 Featured Projects
 
@@ -107,7 +107,7 @@ A blockchain-based file-sharing system designed to maintain data integrity, conf
 
 Designed a QR-based digital menu and cashless payment experience to improve canteen operations and customer experience.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2E1065,50:8B5CF6,100:2E1065&amp;height=5" width="100%" height="3" alt="">
 
 ## 🏆 Achievements
 
@@ -118,7 +118,7 @@ Designed a QR-based digital menu and cashless payment experience to improve cant
 | 🔥 TryHackMe | Top 6% globally – 2026 |
 | 🧩 CTF Challenges | Active participant – 2024–2026 |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2E1065,50:8B5CF6,100:2E1065&amp;height=5" width="100%" height="3" alt="">
 
 ## 📜 Certifications & Learning
 
@@ -127,7 +127,7 @@ Designed a QR-based digital menu and cashless payment experience to improve cant
 - **Cyber Job Simulation** – Deloitte (Forage)
 - **Advent of Cyber 2025** – TryHackMe
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2E1065,50:8B5CF6,100:2E1065&amp;height=5" width="100%" height="3" alt="">
 
 ## 🎓 Education
 
@@ -138,20 +138,20 @@ KCG College of Technology, Chennai
 - CGPA: 8.3
 - 2023 – Present
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2E1065,50:8B5CF6,100:2E1065&amp;height=5" width="100%" height="3" alt="">
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunilp2109&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E5E7EB" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilp2109&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sunilp2109&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=170B2E&title_color=A78BFA&icon_color=C084FC&text_color=EDE9FE" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilp2109&layout=compact&theme=midnight-purple&hide_border=true&bg_color=170B2E&title_color=A78BFA&text_color=EDE9FE" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilp2109&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA" />
+  <img src="https://streak-stats.demolab.com/?user=sunilp2109&theme=midnight-purple&hide_border=true&background=170B2E&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2E1065,50:8B5CF6,100:2E1065&amp;height=5" width="100%" height="3" alt="">
 
 ## 🌐 Let's Connect
 
@@ -167,5 +167,5 @@ KCG College of Technology, Chennai
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6f42c1,50:301934,100:0d1117&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6335A2,45:35145F,100:170B2E&height=80&section=footer" />
 </p>
