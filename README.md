@@ -1,7 +1,7 @@
 # 👾 Hey, I'm Sunil P!
 
 <p align="center">
-  <img src="./assets/sunil-cyber-banner.png" width="100%" alt="Sunil P. | Cybersecurity, UI/UX, and Engineering. Exploring Security, Designing Better, Building What Matters." />
+  <img src="./assets/sunil-cyber-banner.png" width="100%" alt="Sunil P. | Cybersecurity, UI/UX, and Engineering" />
 </p>
 
 <p align="center">
@@ -68,44 +68,32 @@ I enjoy exploring vulnerabilities, solving CTF challenges, designing intuitive i
 
 ## 🚀 Featured Projects
 
-### 🏫 CampusERP — College Management System
-
-> UI/UX Design · Figma · Design Systems
-
-Designed a comprehensive College ERP system with dashboards for students, faculty, HODs, Dean of Academics, library, examination cell, and administrators.
-
-- Developed wireframes and interactive prototypes
-- Designed a scalable design system
-- Focused on usability and academic workflow optimization
-
-### 🛡️ Phylax — Security & Network Protection
-
-> Cybersecurity · Network Security
-
-A security-focused project aimed at protecting servers by blocking malicious activities and monitoring network traffic.
-
-- Malicious activity prevention
-- Suspicious IP tracking
-- DoS attack mitigation
-- Firewall implementation
-- Real-time network packet monitoring
-
-### 🔒 SecuShare — Blockchain-Based Secure File Sharing
-
-> Blockchain · Security · File Integrity
-
-A blockchain-based file-sharing system designed to maintain data integrity, confidentiality, and tamper-proof file transactions.
-
-- Decentralized file transaction records
-- Data integrity and confidentiality
-- Tamper-resistant transaction tracking
-- Secure file-sharing architecture
-
-### 🍽️ QR Canteen — Smart Ordering
-
-> UI/UX Design · QR Ordering · Digital Payments
-
-Designed a QR-based digital menu and cashless payment experience to improve canteen operations and customer experience.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/campuserp-thumbnail.png" width="100%" alt="CampusERP, a violet-lit university connected to academic dashboards" />
+      <h3>CampusERP</h3>
+      <p>Unified academic management experience.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/phylax-thumbnail.png" width="100%" alt="Phylax, server racks protected by a violet shield" />
+      <h3>Phylax</h3>
+      <p>Network protection and security.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/secushare-thumbnail.png" width="100%" alt="SecuShare, a protected file connected to four blockchain nodes" />
+      <h3>SecuShare</h3>
+      <p>Blockchain-based secure file sharing.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/qr-canteen-thumbnail.png" width="100%" alt="QR Canteen, a digital ordering counter with a QR display" />
+      <h3>QR Canteen</h3>
+      <p>Smart digital ordering experience.</p>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2E1065,50:8B5CF6,100:2E1065&amp;height=5" width="100%" height="3" alt="">
 
